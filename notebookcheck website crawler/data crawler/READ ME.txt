@@ -1,0 +1,18 @@
+   \o/
+    |
+   //
+Hi every one!
+*****
+This is a crawler that can crawl links of laptops of website that called as notebookcheck.
+The address is: https://www.notebookcheck.net/
+*****
+You can crawl any "laptop extended article" on this website with this code.
+*****
+For gathering laptop links all in one file you may should use selenium for it.
+I used selenium on search page to find laptops links and search page have some issues.
+By the way that's your task to do!
+*****
+Good Luck with that and if you have questions about that
+or any other crawling question You can find me by sending email to: jalal.razavi@live.com.
+*****
+Have fun!
